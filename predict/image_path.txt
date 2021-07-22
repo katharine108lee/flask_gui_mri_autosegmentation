@@ -1,0 +1,2 @@
+sub-CC00062XX05_ses-13801_T1w_brain.nii.gz
+nomask_vl=2112_nl=87_ss=[98,125,101].pt
